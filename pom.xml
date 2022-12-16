@@ -13,7 +13,7 @@
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
     <javax.servlet>3.0.1</javax.servlet>
-    <spring.version>5.1.7.RELEASE</spring.version>
+    <spring.version>5.2.20.RELEASE</spring.version>
     <jackson.version>2.9.8</jackson.version>
     <maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
   </properties>
